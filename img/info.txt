@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: TruenoBd
+font link: https://fontlibrary.org/en/font/trueno
+font author: Julieta Ulanovsky
+font author site: http://www.zkysky.com.ar/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Gianluca Lanzetta
+icon designer link: /thinkbad
+        
+{"bg":"transparent","icon-gradient-0":"#3E6E81","icon-gradient-1":"#4587A1","font":"#000000","slogan":"#141414"}
+      
